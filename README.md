@@ -1,5 +1,5 @@
 # Abishek-Portfolio
-Here I'm Making an portfolio page.
-This Page shows my Time lines, Studies, Projects, Skills Etc,.
-## My Links:
+Here Is my portfolio page.
+This Page shows my Timelines, Studies, Projects, Skills, Contact info Etc,.
+## Link:
 https://abishek-portfolio.vercel.app/
